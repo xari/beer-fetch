@@ -1,5 +1,7 @@
 # beer-fetch
 
+[https://xari.github.io/beer-fetch/](https://xari.github.io/beer-fetch/)
+
 ## Project setup
 ```
 npm install
