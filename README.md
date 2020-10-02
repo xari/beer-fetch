@@ -1,4 +1,4 @@
-# beer-fetch
+# BeerFetch
 
 [https://xari.github.io/beer-fetch/](https://xari.github.io/beer-fetch/)
 
